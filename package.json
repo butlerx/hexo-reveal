@@ -1,0 +1,17 @@
+{
+  "name": "hexo-reveal",
+  "version": "1.0.3",
+  "main": "index.js",
+  "author": "butlerx",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6"
+  },
+  "description": "A Hexo tag extension which allows you to embed reveal.js slides on your posts",
+  "repository": "github.com/butlerx/hexo-reveal",
+  "keywords": [
+    "hexo",
+    "reveal.js",
+    "tag"
+  ]
+}
