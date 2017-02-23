@@ -1,6 +1,6 @@
 # hexo-reveal
-![MIT](https://img.shields.io/npm/l/express.svg)
-![VERSION](https://img.shields.io/badge/version-1.0.3-green.svg)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/butlerx/hexo-reveal/blob/master/LICENSE.md)
+[![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/hexo-reveal)
 
 Hexo tag for embeded reveal
 
