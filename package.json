@@ -5,7 +5,7 @@
   "author": "butlerx",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.5.6"
+    "ejs": "^2.5.7"
   },
   "description": "A Hexo tag extension which allows you to embed reveal.js slides on your posts",
   "repository": "github.com/butlerx/hexo-reveal",
